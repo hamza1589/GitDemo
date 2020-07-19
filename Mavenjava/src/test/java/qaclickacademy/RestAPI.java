@@ -9,6 +9,7 @@ public void postJira() {
 	System.out.println("post Jira1");
 	System.out.println("post Jira2");
 	System.out.println("post Jira3");
+	System.out.println("post Jira4");
 	
 }
 @Test
